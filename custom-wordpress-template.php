@@ -18,4 +18,6 @@ get_header();?>
   </div>
 </div>
 
-<?php get_footer(); ?>
+<?php 
+/*Brought to you by https://rushax.com*/
+get_footer(); ?>
